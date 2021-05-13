@@ -1,2 +1,2 @@
 # LinkInBio-src
-Source code for my link in bio page
+Source code for https://rayr.ml/LinkInBio
