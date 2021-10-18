@@ -193,9 +193,11 @@ a:-webkit-any-link {
 .profile-img.no-border {
     border-style: none;
     z-index: 2;
-    margin-top: 8%;
     text-align: center;
-    margin-left: 39%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
     content: url(https://rayr.ml/LinkInBio/index_files/pfp.png);
 }
 
