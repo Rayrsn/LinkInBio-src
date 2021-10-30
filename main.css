@@ -2,7 +2,6 @@ body{
     background-color: #e80dff;
     background-image: url(https://rayr.ml/LinkInBio/bg.jpg);
     background-size: 100%;
-    /* background-position-y: -90px; */
     background-repeat: no-repeat;
 }
 .background{
@@ -198,16 +197,18 @@ a:-webkit-any-link {
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
-    content: url(https://rayr.ml/LinkInBio/index_files/pfp.png);
+    content: url(https://rayr.ml/LinkInBio/index_files/pfp.png?v1);
 }
 
 .profile-img.no-border:active {
     border-style: none;
     z-index: 2;
-    margin-top: 8%;
     text-align: center;
-    margin-left: 39%;
-    content: url(https://rayr.ml/LinkInBio/index_files/pfpahe.png);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    content: url(https://rayr.ml/LinkInBio/index_files/pfpahe.png?v1);
 }
 
 .profile-img {
@@ -297,9 +298,7 @@ img {
 @media (max-width: 1000px) {
     body{
         background-color: #e80dff;
-        /* background-image: none; */
         background-size: 350%;
-        /* background-position-y: none; */
         background-repeat: no-repeat;
     } 
     .main {
