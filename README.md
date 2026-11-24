@@ -1,2 +1,2 @@
 # LinkInBio-src
-Source code for https://rayr.ml/LinkInBio
+Source code for https://rayrsn.me/LinkInBio
